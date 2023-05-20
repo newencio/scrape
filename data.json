@@ -1,0 +1,22 @@
+{
+  "men": [
+    {
+      "link": "https://www.balenciaga.com//en-us/bal.com-hoodie-oversized-black-faded-739024TOVN98151.html",
+      "name": "BAL.COM HOODIE OVERSIZED IN BLACK FADED",
+      "img_srcs": [
+        "https://balenciaga.dam.kering.com/m/77c4bfc65d31133c/Medium-739024TOVN98151_F.jpg?v=2",
+        "https://balenciaga.dam.kering.com/m/205dc8b04d4e4ea3/Medium-739024TOVN98151_D.jpg?v=2"
+      ]
+    }
+  ],
+  "women": [
+    {
+      "link": "https://www.balenciaga.com//en-us/heavy-metal-zip-up-hoodie-small-fit-black-faded-744454TOVD81055.html",
+      "name": "HEAVY METAL ZIP-UP HOODIE SMALL FIT IN BLACK FADED",
+      "img_srcs": [
+        "https://balenciaga.dam.kering.com/m/243f023f1980ad36/Medium-744454TOVD81055_F.jpg?v=1",
+        "https://balenciaga.dam.kering.com/m/38a434da46cc8508/Medium-744454TOVD81055_D.jpg?v=1"
+      ]
+    }
+  ]
+}
